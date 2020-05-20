@@ -65,7 +65,7 @@ instruction
  : create
  | expr
  | print
- | print_com //
+ | print_com 
  | if_stat
  | while_stat
  | for_stat
